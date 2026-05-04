@@ -1,0 +1,11 @@
+# VS 临时文件，不用上传
+x64/
+Debug/
+Release/
+*.log
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
