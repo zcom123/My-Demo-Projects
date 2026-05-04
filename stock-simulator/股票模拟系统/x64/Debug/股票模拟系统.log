@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\程序\贪吃蛇\股票模拟系统\股票模拟系统\FileName.cpp(85,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\程序\贪吃蛇\股票模拟系统\股票模拟系统\FileName.cpp(87,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  股票模拟系统.vcxproj -> D:\程序\贪吃蛇\股票模拟系统\x64\Debug\股票模拟系统.exe
